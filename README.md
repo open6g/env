@@ -1,3 +1,13 @@
 # Environment Variables and Network Information
-## A small application to quickly gather system information
-### Written in Go language
+
+## General Info
+A small application to quickly gather system information
+
+## Technologies
+Written in Go language, tested in Linux
+
+## Setup
+To run this application, use the go command
+
+$ go run env.go
+
