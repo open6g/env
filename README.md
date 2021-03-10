@@ -22,5 +22,3 @@ Network Interface Information
 =============================
 Index:1 MTU:65536 Name:lo HardwareAddr: Flags:up|loopback IP Address: [127.0.0.1/32] 
 
-
-
